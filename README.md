@@ -1,5 +1,13 @@
 # Android1_2020
 
+- 16.02.2020
+- - Diğer Buton Olayları
+- - Programatik Nesne Ekleme
+- - Resim Uygulaması
+- - Glide Kütüphanesi Kullanımı
+- - ScrollView Kullanımı
+- - WebView ile Bir web sayfasını açmak
+- - WebView ile assets klasöründeki bir web sayfasını açmak
 - 22.02.2020
 - - Intent ile Farklı Sayfalar ile Çalışma
 - - Intent ile Farklı bir sayfaya veri taşıma
