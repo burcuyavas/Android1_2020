@@ -1,6 +1,6 @@
 # Android1_2020
 
 - 22.02.2020
--- Intent
+- - Intent
 - 23.02.2020
--- Adapter
+- - Adapter
