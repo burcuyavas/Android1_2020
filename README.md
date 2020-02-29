@@ -21,3 +21,5 @@
 - - Spinner ile ArrayAdapter
 - - AutoCompleteTextView ve MultiAutoCompleteTextView ile ArrayAdapter
 - - Toolbar Menü Kullanımı
+- 29.02.2020
+- - BaseAdapter sınıfının kullanımı (Araç İlanları Örneği)
