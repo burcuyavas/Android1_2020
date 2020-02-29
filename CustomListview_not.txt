@@ -1,0 +1,7 @@
+Custom ListView Aþamalarý
+
+1. aþama - ListView nesnesini üret, ilgili sayfada referansýný tanýmla
+2. aþama - ListView satýr görüntüsü xml layout'ý üret.
+3. aþama - Model sýnýfý üret (OOP Kapsülleme)
+4. aþama - BaseAdapter sýnýfýný üret.
+5. aþama - Ýlgili activity sayfasýnda BaseAdapter sýnýfýný listView nesnesine baðla. 
